@@ -1,1 +1,1 @@
-API="1882009448:AAG2FjEnIQBtm0IoDIw4n8pNrkCeoxzNLf8"
+API="your API"
